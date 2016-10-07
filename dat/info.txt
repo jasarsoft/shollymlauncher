@@ -1,0 +1,5 @@
+afs files
+would be two e_sound.afs File
+1 - nt e_sound.afs
+2 - club_e_sound.afs
+that is alternately i.e. unchanged. switcher them he changed the name to e_sound.afs when dialing (nt and classic)

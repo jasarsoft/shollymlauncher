@@ -1,0 +1,3 @@
+packages arranged and suitable for switcher
+each would contain its gameplay and the main files and its icon (+ image)
+layout files is similar for all versions of the patch, and as an example to look at classic

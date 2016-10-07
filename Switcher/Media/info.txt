@@ -1,0 +1,7 @@
+Logo image for all three versions of the patch size 510x110px
+1. classic2014.jpg
+2. national2014.jpg
+3. shollym2014.jpg
+
+Music background "backgorund.mp3" file.
+Icon for patch (icon.ico)
